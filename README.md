@@ -1,5 +1,5 @@
 # Geri Dönüşüm Feri Projesi
 
 
-# Projemin Konusu
+## Projemin Konusu
 > İklim Değişikliğini Engellemek Ve İnsanlara Bilgi Vermek.
